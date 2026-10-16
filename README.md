@@ -1,0 +1,2 @@
+# ducphu
+my first repository 
